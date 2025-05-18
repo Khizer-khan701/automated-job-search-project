@@ -1,2 +1,13 @@
 pandas
+streamlit
+faiss-cpu
+python-dotenv
+langchain
+openai
+crewai
+spacy
+requests
+beautifulsoup4
+PyPDF2
+python-docx
 -e .
